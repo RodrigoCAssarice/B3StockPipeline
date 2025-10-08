@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore SQLite database file
+dados_petr4.db
+dados_petr4.sqllite
+
+# Ignore downloaded ZIP files (supondo que esteja numa pasta 'downloads' dentro do projeto)
+downloads/
+
+# Ignore logs
+*.log
+
+# Ignore ChromeDriver, caso esteja no projeto
+chromedriver.exe
+chromedriver
+
+# Ignore IDE/editor configs (exemplo VSCode)
+.vscode/
+.idea/
+
+# Outros arquivos temporários comuns
+*.swp
+*.DS_Store
