@@ -54,8 +54,14 @@ Run the main script:
 
 python main.py
 📞 Contact
+
 Rodrigo Assarice
+
 Email: rodrigo.assarice@hotmail.com
+
+
+
+## Portuguese version
 
 📊 Rastreador de Dados - Preços Históricos 
 🇧🇷 Versão em Português
