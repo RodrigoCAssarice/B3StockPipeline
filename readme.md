@@ -1,4 +1,7 @@
-# 🚧 WORK IN PROGRESS 🚧
+# Este projeto foi meu primeiro experimento em pipelines de dados. A partir dele, surgiu a ideia de evoluir para o projeto Steam Pipeline, onde estou buscando aplicar arquitetura Bronze/Silver/Gold e práticas modernas de engenharia de dados. Mais alinhadas com o mercado atual.
+
+
+🚧 WORK IN PROGRESS 🚧
 
 ⚠️ **This project is currently under development. Features may be incomplete or subject to change. Contributions and feedback are welcome!**
 
